@@ -1,2 +1,2 @@
 # blockchain-python
-a block chain written by python
+a block chain written in python
